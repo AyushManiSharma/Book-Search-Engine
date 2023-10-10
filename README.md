@@ -38,3 +38,7 @@ The run `npm install` in the terminal
 ## Usage
 
 In the terminal, type `npm run develop`
+
+## Deployment
+
+UNABLE TO DEPLOY AS THIS IS A FORKED REPOSITORY

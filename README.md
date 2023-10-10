@@ -2,10 +2,12 @@
 
 ## Description
 
-A Program to search through a catalog of books in a library using the MERN stack. All dependencies are listed in the `package.json` file 
+A Program to search through a catalog of books in a library using the MERN stack. All dependencies are listed in the `client/package.json` file (https://github.com/AyushManiSharma/Book-Search-Engine/blob/main/client/package.json)
 
 ## Code Help
-Starter code borrowed from: [Xandarus] (https://github.com/AyushManiSharma/Book-Search-Engine/commits?author=Xandromus)https://github.com/AyushManiSharma/Book-Search-Engine/commits?author=Xandromus
+Starter code borrowed from: [Xandarus]
+
+(https://github.com/AyushManiSharma/Book-Search-Engine/commits?author=Xandromus)https://github.com/AyushManiSharma/Book-Search-Engine/commits?author=Xandromus
 
 ## License
 MIT License
